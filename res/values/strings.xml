@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">用于自动把收到的短信转发到微信指定联系人</string>
+</resources>

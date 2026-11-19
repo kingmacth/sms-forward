@@ -1,0 +1,22 @@
+# 构建产物
+build/
+*.apk
+*.apks
+*.aab
+
+# 本地 SDK（由 setup-sdk.sh 下载，不入库）
+sdk/
+
+# 签名文件 —— 绝不入库
+*.keystore
+*.jks
+keystore.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
